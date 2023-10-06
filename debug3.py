@@ -11,6 +11,5 @@ round(x)
 print(x)
 """
 
-x = Input("enter a float number:")
-round(x)
-print(x)
+x = float(input("enter a float number:"))
+print(round(x,2))

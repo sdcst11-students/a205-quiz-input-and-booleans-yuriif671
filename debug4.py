@@ -10,7 +10,7 @@ else:
     print("x = 4")
 """
 x = 3
-if x = 3:
+if x == 3:
     print("x is 3")
-else:
+elif x == 4:
     print("x = 4")
